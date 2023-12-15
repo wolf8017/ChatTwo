@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "298008827157",
+    "project_id": "chattwo-b9c4f",
+    "storage_bucket": "chattwo-b9c4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298008827157:android:edded6dcf946d220dd851c",
+        "android_client_info": {
+          "package_name": "com.wolf8017.chattwo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2Hzmh65IWSg5_1DdjA4Hloir4WhE-dek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
